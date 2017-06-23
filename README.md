@@ -66,10 +66,8 @@ Please cite this work as:
 }
 ```
 
-### Errata on paper
+You can download the paper at http://www.cs.uoi.gr/~sfikas/16Sfikas_MLL-LVM.pdf .
 
-In equation 26, gamma_v should appear multiplied by a factor of 2, i.e. as it appears in equation 25. Also, 'n' superscripts should be read as 'm'.
-These errors are corrected in the code. 
 
 ## Single-view model (LL-LVM)
 The current model extends on the single-view locally-linear latent variable model [LL-LVM](http://arxiv.org/abs/1410.6791) presented in [NIPS 2015](https://nips.cc/Conferences/2015/AcceptedPapers).
